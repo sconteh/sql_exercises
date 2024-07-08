@@ -1,4 +1,6 @@
-# This repository contains various exercises that I have done to introduce and familiarize myself with the various SQL concepts such as queries, joins, subquries, CTEs, table creation, and more. 
+# SQL Exercises 2023  
+
+This repository contains various exercises that I have done to introduce and familiarize myself with the various SQL concepts such as queries, joins, subquries, CTEs, table creation, and more.
 
 Exercise 1 
 - Provided the street name, number, city, state, country, and main phonen number from an addresses table. The second query shows the location code, building name, and room number of various UMD buildings that is above the room number 1000. 
